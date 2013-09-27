@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>搞笑电视HTML5版</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+        <script src="./js/jquery-1.9.1.min.js"></script>
+       
+        <script src="./js/jquery.mobile-1.3.2.min.js"></script>
+         <script src="./js/tv.js"></script>
+        <link rel="stylesheet" href="./css/jquery.mobile-1.3.2.min.css" />
+        <style>
+            .mainbody{width:100%;height:100%;overflow: hidden;}
+            .videoArea{width:100%;background:url(../img/tvbg.jpg)  #EAEDF1;border-radius:5px;min-height: 150px;text-align: center;min-height: 200px;}
+            .line5{width: 50%; height: 5px; }
+            .line4{width: 45%; height: 5px; }
+            .line3{width: 40%; height: 5px; }
+            .line2{width: 35%; height: 5px; }
+            .line1{width: 30%; height: 5px; }
+            .line{ margin: 0px auto; border-left: 40px solid #138DCF;border-right: 40px solid #138DCF;color:#1A2C78;line-height: 50px;font-size: 120%;text-align: center;}
+            .tv{background: #138DCF;border: 20px solid #138DCF;
+                border-bottom: 0px solid #138DCF;border-radius:15px;}
+            .button{width:50px;height:50px;margin:4px auto;-webkit-transition: all 0.5s ease-in;
+            }
+            .button:hover{-webkit-transform: rotate(90deg);-moz-transform:rotate(90deg);transform:rotate(90deg);}
+            .announce{background: #FDF38A;border: 2px solid #FB7412;margin: 20px 0px;opacity:0.7}
+            </style>
+    </head>
+    
+    <body>
+        <div data-role="page" id="first">
+        <div data-role="header" data-theme="c" class="ui-header ui-bar-f" role="banner">
+            <h1 id="headerTitle">搞笑电视机</h1>
+            
+            <a href="javascript:void()" onclick="return refresh(true)" data-icon="refresh" data-iconpos="notext" data-direction="reverse">换台</a>
+            <a href="#help" data-icon="info" data-iconpos="notext" data-rel="dialog" data-transition="fade">帮助</a>
+  
+            
+   
+        </div><!-- /header -->
+        
+        <div data-role="content">
+        
+        <div class="mainbody"/>
+        <div class="line line5"></div>
+        <div class="line line4"></div>
+        <div class="line line3"></div>
+        <div class="line line2"></div>
+        <div class="line line1"></div>
+        <div class="tv">
+            <div class="videoArea" id="videoBox">
+                <video id="myVideo"  controls="controls" preload="auto" width="100%" style="min-height:200px;">
+                    <source src="#">
+                </video>
+            </div>
+            <div class="button"><a href="javascript:void();" onclick="return refresh(true)"><img src="./img/button.png"/></a></div>
+        </div>
+        
+        <div class="announce" id="announce" onclick="hideOrshow(this);">小提示：点击电视机屏幕即可播放视频，不喜欢可以点击下方按钮换台~~</div>
+        </div>
+        </div>
+
+            </div>
+        </div>
+        <!-- 说明-->
+        <div data-role="page" id="help">
+            <div data-role="header">
+                <h1>使用帮助</h1>
+            </div>
+            <div data-role="content">
+                <p>
+                Q:如何播放视频？<br />
+                A:电视机屏幕区域显示点击电视机屏幕即可播放视频。
+                <hr />
+                Q:不喜欢/已经看完当前节目，如何换台？<br />
+                A:点击下方按钮换台~~
+                <hr />
+                Q:搞笑电视机是谁做的？<br />
+                A:搞笑电视机是搞笑视频网(http://gx.zhans.org/)的作品。
+                
+                </p>
+            </div>
+        </div>
+        <!-- confirm dialog-->
+
+        <div data-role="dialog" id="sure" data-title="Are you sure?">
+            <div data-role="content">
+                <h3 class="sure-1">???</h3>
+                <p class="sure-2">???</p>
+                <a href="#" class="sure-do" data-role="button" data-theme="b" data-rel="back">Yes</a>
+                <a href="#" data-role="button" data-theme="c" data-rel="back">No</a>
+            </div>
+        </div>
+    </body>
+</html>
+

@@ -1,0 +1,14 @@
+.mainbody{width:100%;height:100%;overflow: hidden;}
+.videoArea{width:100%;background:url(../img/tvbg.jpg)  #EAEDF1;border-radius:5px;min-height: 150px;text-align: center;min-height: 200px;}
+.line5{width: 50%; height: 5px; }
+.line4{width: 45%; height: 5px; }
+.line3{width: 40%; height: 5px; }
+.line2{width: 35%; height: 5px; }
+.line1{width: 30%; height: 5px; }
+.line{ margin: 0px auto; border-left: 40px solid #138DCF;border-right: 40px solid #138DCF;color:#1A2C78;line-height: 50px;font-size: 120%;text-align: center;}
+.tv{background: #138DCF;border: 20px solid #138DCF;
+border-bottom: 0px solid #138DCF;border-radius:15px;}
+.button{width:50px;height:50px;margin:4px auto;-webkit-transition: all 0.5s ease-in;
+}
+.button:hover{-webkit-transform: rotate(90deg);-moz-transform:rotate(90deg);transform:rotate(90deg);}
+.announce{background: #FDF38A;border: 2px solid #FB7412;margin: 20px 0px;opacity:0.7}

@@ -1,0 +1,1034 @@
+TCordovaLib
+v5
+r1
+cCheck dependencies
+cCpHeader Classes/NSData+Base64.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/NSData+Base64.h
+cCpHeader Classes/NSDictionary+Extensions.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h
+cCpHeader Classes/CDVInvokedUrlCommand.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h
+cCpHeader Classes/CDVPluginResult.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVPluginResult.h
+cCpHeader Classes/CDVDebug.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVDebug.h
+cCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h
+cCpHeader Classes/CDVPlugin.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVPlugin.h
+cCpHeader Classes/CDVWhitelist.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVWhitelist.h
+cCpHeader Classes/CDVURLProtocol.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVURLProtocol.h
+cCpHeader Classes/CDVViewController.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVViewController.h
+cCpHeader Classes/CDVCommandDelegate.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVCommandDelegate.h
+cCpHeader Classes/CDV.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDV.h
+cCpHeader Classes/CDVAvailability.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVAvailability.h
+cCpHeader Classes/CDVLocalStorage.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVLocalStorage.h
+cCpHeader Classes/UIDevice+Extensions.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/UIDevice+Extensions.h
+cCpHeader Classes/NSArray+Comparisons.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/NSArray+Comparisons.h
+cCpHeader Classes/CDVEcho.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVEcho.h
+cCpHeader Classes/CDVCommandQueue.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVCommandQueue.h
+cCpHeader Classes/CDVCommandDelegateImpl.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h
+cCpHeader Classes/CDVShared.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVShared.h
+cCpHeader Classes/CDVScreenOrientationDelegate.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h
+cCpHeader Classes/CDVConfigParser.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVConfigParser.h
+cCpHeader Classes/CDVJSON.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVJSON.h
+cCpHeader Classes/CDVWebViewDelegate.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h
+cCpHeader Classes/CDVUserAgentUtil.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h
+cCpHeader Classes/CDVTimer.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVTimer.h
+cProcessPCH /var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch.pth CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVEcho.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/yuntao/phonegap/hahatv/platforms/ios/build/libCordova.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDV.h
+c00000000523E5B170000000000000516
+t1379818263
+s1302
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+c00000000523E5B170000000000000C65
+t1379818263
+s3173
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+c00000000523E5B1700000000000008BA
+t1379818263
+s2234
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+c00000000523E5B170000000000000473
+t1379818263
+s1139
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+c00000000523E5B17000000000000126E
+t1379818263
+s4718
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+c00000000523E5B170000000000000501
+t1379818263
+s1281
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+c00000000523E5B17000000000000152E
+t1379818263
+s5422
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+c00000000523E5B1700000000000004CB
+t1379818263
+s1227
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+c00000000523E5B170000000000000E0D
+t1379818263
+s3597
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVDebug.h
+c00000000523E5B170000000000000401
+t1379818263
+s1025
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVEcho.h
+c00000000523E5B170000000000000342
+t1379818263
+s834
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVEcho.m
+c00000000523E5B1700000000000008DA
+t1379818263
+s2266
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+c00000000523E5B1700000000000007E6
+t1379818263
+s2022
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+c00000000523E5B170000000000000DDE
+t1379818263
+s3550
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVJSON.h
+c00000000523E5B1700000000000003DA
+t1379818263
+s986
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVJSON.m
+c00000000523E5B17000000000000098E
+t1379818263
+s2446
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+c00000000523E5B1700000000000006CF
+t1379818263
+s1743
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+c00000000523E5B170000000000004C6C
+t1379818263
+s19564
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+c00000000523E5B170000000000000892
+t1379818263
+s2194
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+c00000000523E5B1700000000000016AE
+t1379818263
+s5806
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+c00000000523E5B170000000000000C13
+t1379818263
+s3091
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+c00000000523E5B170000000000001B29
+t1379818263
+s6953
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+c00000000523E5B170000000000000408
+t1379818263
+s1032
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVShared.h
+c00000000523E5B1700000000000003E6
+t1379818263
+s998
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVShared.m
+c00000000523E5B1700000000000006B6
+t1379818263
+s1718
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVTimer.h
+c00000000523E5B17000000000000038D
+t1379818263
+s909
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVTimer.m
+c00000000523E5B170000000000000AA2
+t1379818263
+s2722
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+c00000000523E5B17000000000000041C
+t1379818263
+s1052
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+c00000000523E5B170000000000002514
+t1379818263
+s9492
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+c00000000523E5B170000000000000421
+t1379818263
+s1057
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+c00000000523E5B1700000000000012A2
+t1379818263
+s4770
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVViewController.h
+c00000000523E5B170000000000000ACC
+t1379818263
+s2764
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVViewController.m
+c00000000523E5B170000000000008568
+t1379818263
+s34152
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+c00000000523E5B1700000000000005A2
+t1379818263
+s1442
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+c00000000523E5B1700000000000037C6
+t1379818263
+s14278
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+c00000000523E5B1700000000000004B4
+t1379818263
+s1204
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+c00000000523E5B170000000000002216
+t1379818263
+s8726
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+c00000000523E5B170000000000000392
+t1379818263
+s914
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+c00000000523E5B1700000000000004D8
+t1379818263
+s1240
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+c00000000523E5B17000000000000037D
+t1379818263
+s893
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+c00000000523E5B1700000000000022CC
+t1379818263
+s8908
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+c00000000523E5B1700000000000005DA
+t1379818263
+s1498
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+c00000000523E5B170000000000001059
+t1379818263
+s4185
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+c00000000523E5B1700000000000003A0
+t1379818263
+s928
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+c00000000523E5B170000000000000584
+t1379818263
+s1412
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+c00000000523E5B170000000000000476
+t1379818263
+s1142
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+c00000000523E5B170000000000000620
+t1379818263
+s1568
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+c00000000523E5B170000000000000346
+t1379818263
+s838
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList
+c00000000523E5B1A0000000000000CBE
+t1379818266
+s3262
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDV.h
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVAvailability.h
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVCommandDelegate.h
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVCommandQueue.h
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVConfigParser.h
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVDebug.h
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVEcho.h
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVJSON.h
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVLocalStorage.h
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVPlugin.h
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVPluginResult.h
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVShared.h
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVTimer.h
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVURLProtocol.h
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVViewController.h
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVWhitelist.h
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/NSArray+Comparisons.h
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/NSData+Base64.h
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/UIDevice+Extensions.h
+t2
+s0
+
+N/Users/yuntao/phonegap/hahatv/platforms/ios/build/libCordova.a
+t2
+s0
+
+N/var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch.pth
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies5f46c99a92eeb741^8926e09a92eeb741^---0#1#0#--18"Check dependencies36"6D6BD31B-BD97-478E-BB14-66A7861CB08D-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401511068.246276
+e401511068.538850
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+x/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m9b3a3f9c92eeb741^99f2899c92eeb741^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m0000000000000000^3773"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yuntao/phonegap/hahatv/platforms/ios/build -DDEBUG -include /var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.d --serialize-diagnostics /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.dia -c /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m -o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o36"10B89495-CC32-4396-BD3A-BD197C825827-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401511068.219469
+e401511068.536000
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+x/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVCommandQueue.mb761389c92eeb741^5e4a899c92eeb741^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m0000000000000000^3731"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yuntao/phonegap/hahatv/platforms/ios/build -DDEBUG -include /var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.d --serialize-diagnostics /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.dia -c /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m -o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o36"5E2C1511-76FD-46D8-A6EA-0806B9559351-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401511068.494136
+e401511068.550304
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+x/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVConfigParser.m9baf7e9c92eeb741^97ff8c9c92eeb741^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVConfigParser.m0000000000000000^3731"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yuntao/phonegap/hahatv/platforms/ios/build -DDEBUG -include /var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.d --serialize-diagnostics /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.dia -c /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVConfigParser.m -o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o36"AFE766AE-E777-4D7C-BB4B-E42AABC2229E-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVEcho.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401511068.055196
+e401511068.492805
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o
+x/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVEcho.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVEcho.m5f600e9c92eeb741^d0427e9c92eeb741^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVEcho.m0000000000000000^3683"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o Classes/CDVEcho.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yuntao/phonegap/hahatv/platforms/ios/build -DDEBUG -include /var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.d --serialize-diagnostics /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.dia -c /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVEcho.m -o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o36"D6BBF50C-9C6A-415B-AC58-E0673ED5FC84-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401511067.736175
+e401511067.794424
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+x/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m26c5bf9b92eeb741^fa5ecb9b92eeb741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m0000000000000000^3761"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yuntao/phonegap/hahatv/platforms/ios/build -DDEBUG -include /var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.d --serialize-diagnostics /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.dia -c /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m -o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o36"C64321A4-BB39-4D8C-BF57-36B5047BAFAD-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401511067.444004
+e401511067.706285
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+x/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVJSON.m4dd9719b92eeb741^70ceb49b92eeb741^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVJSON.m0000000000000000^3683"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yuntao/phonegap/hahatv/platforms/ios/build -DDEBUG -include /var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.d --serialize-diagnostics /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.dia -c /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVJSON.m -o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o36"E1AE364B-6078-49BE-96D8-C3177750004D-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401511067.795743
+e401511068.244889
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+x/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVLocalStorage.mabeccb9b92eeb741^1ac13e9c92eeb741^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m0000000000000000^3731"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yuntao/phonegap/hahatv/platforms/ios/build -DDEBUG -include /var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.d --serialize-diagnostics /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.dia -c /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m -o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o36"D243FA6E-7209-4FC3-8C29-34266129EDD2-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401511067.444144
+e401511067.738439
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+x/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVPlugin.m51dc719b92eeb741^0caebd9b92eeb741^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVPlugin.m0000000000000000^3695"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yuntao/phonegap/hahatv/platforms/ios/build -DDEBUG -include /var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.d --serialize-diagnostics /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.dia -c /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVPlugin.m -o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o36"C201FFCC-349D-4BC9-A584-0ED08FBF2B04-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401511067.443977
+e401511067.728311
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+x/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVPluginResult.mf5d9719b92eeb741^e278ba9b92eeb741^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVPluginResult.m0000000000000000^3731"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yuntao/phonegap/hahatv/platforms/ios/build -DDEBUG -include /var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.d --serialize-diagnostics /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.dia -c /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVPluginResult.m -o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o36"EFBCF89D-6AC0-4CC5-8E5E-3C09883E78F8-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401511068.615399
+e401511068.658395
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+x/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVShared.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVShared.m4dba9d9c92eeb741^a88ba89c92eeb741^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVShared.m0000000000000000^3695"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yuntao/phonegap/hahatv/platforms/ios/build -DDEBUG -include /var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.d --serialize-diagnostics /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.dia -c /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVShared.m -o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o36"0282015E-2EFC-499F-80B8-B206522A97DE-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401511068.551601
+e401511068.613798
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+x/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVTimer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVTimer.m12678d9c92eeb741^fa419d9c92eeb741^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVTimer.m0000000000000000^3689"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yuntao/phonegap/hahatv/platforms/ios/build -DDEBUG -include /var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.d --serialize-diagnostics /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.dia -c /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVTimer.m -o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o36"F2D977E7-B81E-4721-803B-AECC7F9678C6-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401511067.767614
+e401511068.196429
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+x/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVURLProtocol.me2b0c49b92eeb741^5e64329c92eeb741^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m0000000000000000^3725"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yuntao/phonegap/hahatv/platforms/ios/build -DDEBUG -include /var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.d --serialize-diagnostics /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.dia -c /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m -o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o36"CBD606AE-88A3-4B02-9D8D-616BD763D839-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401511068.537304
+e401511068.720001
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+x/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m90be899c92eeb741^6361b89c92eeb741^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m0000000000000000^3737"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yuntao/phonegap/hahatv/platforms/ios/build -DDEBUG -include /var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.d --serialize-diagnostics /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.dia -c /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m -o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o36"59ECF712-1D70-476F-9C1D-C3B1B61837F6-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401511067.787910
+e401511068.734148
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+x/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVViewController.ma8fec99b92eeb741^a6f1bb9c92eeb741^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVViewController.m0000000000000000^3743"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yuntao/phonegap/hahatv/platforms/ios/build -DDEBUG -include /var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.d --serialize-diagnostics /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.dia -c /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVViewController.m -o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o36"87A7E160-06B1-4E27-B00C-53E232B3CF60-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401511068.541827
+e401511068.744781
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+x/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.mc9e68a9c92eeb741^b5a9be9c92eeb741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m0000000000000000^3749"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yuntao/phonegap/hahatv/platforms/ios/build -DDEBUG -include /var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.d --serialize-diagnostics /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.dia -c /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m -o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o36"55B51A2F-A338-4F9B-9FD7-CC0D7E7E1B7F-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401511067.443945
+e401511067.749522
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+x/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVWhitelist.mbadb719b92eeb741^c285c09b92eeb741^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVWhitelist.m0000000000000000^3713"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yuntao/phonegap/hahatv/platforms/ios/build -DDEBUG -include /var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.d --serialize-diagnostics /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.dia -c /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVWhitelist.m -o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o36"7FB7293A-52FF-4531-9916-35B738162708-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401511067.982515
+e401511068.053765
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+x/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m78b6fb9b92eeb741^a0c20d9c92eeb741^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m0000000000000000^3755"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yuntao/phonegap/hahatv/platforms/ios/build -DDEBUG -include /var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.d --serialize-diagnostics /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.dia -c /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m -o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o36"8B7566E5-BFF1-4334-A91E-56AEC0CFAB16-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401511067.748537
+e401511067.809581
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+x/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSData+Base64.m581ac09b92eeb741^fb3fcf9b92eeb741^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSData+Base64.m0000000000000000^3719"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yuntao/phonegap/hahatv/platforms/ios/build -DDEBUG -include /var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.d --serialize-diagnostics /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.dia -c /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSData+Base64.m -o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o36"2265AC2A-79FC-443F-81D6-8F9DD44EA1C7-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401511067.707769
+e401511067.762988
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+x/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.maf5eb59b92eeb741^6362c39b92eeb741^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m0000000000000000^3779"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yuntao/phonegap/hahatv/platforms/ios/build -DDEBUG -include /var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.d --serialize-diagnostics /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.dia -c /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m -o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o36"FC349888-86C3-4E60-B46F-ABAF7EB5ADD7-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401511067.752444
+e401511067.786571
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+x/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.mc4cec09b92eeb741^ec6bc99b92eeb741^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m0000000000000000^3815"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yuntao/phonegap/hahatv/platforms/ios/build -DDEBUG -include /var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.d --serialize-diagnostics /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.dia -c /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m -o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o36"6F64E80E-2178-4BE7-B01C-024F3E85E1C3-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401511067.810912
+e401511067.981213
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+x/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.mf2b5cf9b92eeb741^9240fb9b92eeb741^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m0000000000000000^3755"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yuntao/phonegap/hahatv/platforms/ios/build -DDEBUG -include /var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.d --serialize-diagnostics /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.dia -c /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m -o /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o36"F3C3900D-39AF-4B75-B27D-7063EBFE353A-
+
+CCpHeader Classes/CDV.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDV.h
+s401511066.902009
+e401511066.905641
+r1
+xCpHeader
+xClasses/CDV.h
+x/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDV.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Copy /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDV.h950de79a92eeb741^aed8e79a92eeb741^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDV.h000000000080d041^666"CpHeader Classes/CDV.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDV.h    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDV.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova36"CA0227D4-F7FA-42F2-AB92-C6ADE163474E-
+
+CCpHeader Classes/CDVAvailability.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVAvailability.h
+s401511066.903561
+e401511066.906489
+r1
+xCpHeader
+xClasses/CDVAvailability.h
+x/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVAvailability.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVAvailability.h2f6ee79a92eeb741^3010e89a92eeb741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVAvailability.h000000000080d041^702"CpHeader Classes/CDVAvailability.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVAvailability.h    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVAvailability.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova36"59BE3225-2EEB-47AE-930D-CE543D42DCE4-
+
+CCpHeader Classes/CDVCommandDelegate.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVCommandDelegate.h
+s401511066.901822
+e401511066.904278
+r1
+xCpHeader
+xClasses/CDVCommandDelegate.h
+x/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVCommandDelegate.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVCommandDelegate.hadfce69a92eeb741^917ee79a92eeb741^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVCommandDelegate.h000000000080d041^711"CpHeader Classes/CDVCommandDelegate.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVCommandDelegate.h    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova36"5F3FA747-D0E7-49DD-91EA-D71C799C370C-
+
+CCpHeader Classes/CDVCommandDelegateImpl.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h
+s401511066.908864
+e401511066.912201
+r1
+xCpHeader
+xClasses/CDVCommandDelegateImpl.h
+x/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.hdcbde89a92eeb741^cb86e99a92eeb741^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h000000000080d041^723"CpHeader Classes/CDVCommandDelegateImpl.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova36"6103601F-EFBA-49EB-8B79-0A0B7FFE3E48-
+
+CCpHeader Classes/CDVCommandQueue.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVCommandQueue.h
+s401511066.908841
+e401511066.913304
+r1
+xCpHeader
+xClasses/CDVCommandQueue.h
+x/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVCommandQueue.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVCommandQueue.h4cc7e89a92eeb741^d5cde99a92eeb741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVCommandQueue.h000000000080d041^702"CpHeader Classes/CDVCommandQueue.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVCommandQueue.h    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova36"165823B8-5D6F-4202-A454-533F1336CE6C-
+
+CCpHeader Classes/CDVConfigParser.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVConfigParser.h
+s401511066.913387
+e401511066.916623
+r1
+xCpHeader
+xClasses/CDVConfigParser.h
+x/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVConfigParser.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVConfigParser.hb7efe99a92eeb741^11a8ea9a92eeb741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVConfigParser.h000000000080d041^702"CpHeader Classes/CDVConfigParser.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVConfigParser.h    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVConfigParser.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova36"F418BE89-3A89-4A85-A249-81A6D2FD583D-
+
+CCpHeader Classes/CDVDebug.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVDebug.h
+s401511066.894938
+e401511066.900573
+r1
+xCpHeader
+xClasses/CDVDebug.h
+x/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVDebug.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVDebug.h253ce59a92eeb741^fc8de69a92eeb741^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVDebug.h000000000080d041^681"CpHeader Classes/CDVDebug.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVDebug.h    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVDebug.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova36"6B407C08-3F00-4D50-A810-7C62CD24EFB8-
+
+CCpHeader Classes/CDVEcho.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVEcho.h
+s401511066.906810
+e401511066.909911
+r1
+xCpHeader
+xClasses/CDVEcho.h
+x/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVEcho.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVEcho.h2d43e89a92eeb741^bbefe89a92eeb741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVEcho.h000000000080d041^678"CpHeader Classes/CDVEcho.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVEcho.h    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVEcho.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova36"0946235E-7EA7-4F5E-AB09-6C41CD0209EA-
+
+CCpHeader Classes/CDVInvokedUrlCommand.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h
+s401511066.887855
+e401511066.894464
+r1
+xCpHeader
+xClasses/CDVInvokedUrlCommand.h
+x/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.heacee39a92eeb741^dffae49a92eeb741^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h000000000080d041^717"CpHeader Classes/CDVInvokedUrlCommand.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova36"0442CCD7-04B0-4FA0-AE6A-012F2188A81C-
+
+CCpHeader Classes/CDVJSON.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVJSON.h
+s401511066.914468
+e401511066.918027
+r1
+xCpHeader
+xClasses/CDVJSON.h
+x/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVJSON.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVJSON.h4d32ea9a92eeb741^f303eb9a92eeb741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVJSON.h000000000080d041^678"CpHeader Classes/CDVJSON.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVJSON.h    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVJSON.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova36"9B3194D0-D903-4C94-913A-86F6389B3637-
+
+CCpHeader Classes/CDVLocalStorage.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVLocalStorage.h
+s401511066.904779
+e401511066.907624
+r1
+xCpHeader
+xClasses/CDVLocalStorage.h
+x/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVLocalStorage.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVLocalStorage.h5abde79a92eeb741^1d5ae89a92eeb741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVLocalStorage.h000000000080d041^702"CpHeader Classes/CDVLocalStorage.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVLocalStorage.h    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova36"66DC992B-0DA1-4CC3-8A4C-1F8330A10C1A-
+
+CCpHeader Classes/CDVPlugin.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVPlugin.h
+s401511066.894969
+e401511066.897224
+r1
+xCpHeader
+xClasses/CDVPlugin.h
+x/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVPlugin.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVPlugin.h2a3be59a92eeb741^36b0e59a92eeb741^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVPlugin.h000000000080d041^684"CpHeader Classes/CDVPlugin.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVPlugin.h    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVPlugin.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova36"A4BE6ED4-A557-482E-BA4E-0952745C07CD-
+
+CCpHeader Classes/CDVPluginResult.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVPluginResult.h
+s401511066.887943
+e401511066.892932
+r1
+xCpHeader
+xClasses/CDVPluginResult.h
+x/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVPluginResult.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVPluginResult.h74cee39a92eeb741^bc96e49a92eeb741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVPluginResult.h000000000080d041^702"CpHeader Classes/CDVPluginResult.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVPluginResult.h    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVPluginResult.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova36"2452EBC1-99ED-44E7-B893-9D9B6094D468-
+
+CCpHeader Classes/CDVScreenOrientationDelegate.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h
+s401511066.911174
+e401511066.915804
+r1
+xCpHeader
+xClasses/CDVScreenOrientationDelegate.h
+x/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h6c5ee99a92eeb741^ce71ea9a92eeb741^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h000000000080d041^741"CpHeader Classes/CDVScreenOrientationDelegate.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova36"A61444B3-23F1-42A3-B12B-8DB6A6863496-
+
+CCpHeader Classes/CDVShared.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVShared.h
+s401511066.911166
+e401511066.914338
+r1
+xCpHeader
+xClasses/CDVShared.h
+x/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVShared.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVShared.h2d5de99a92eeb741^6212ea9a92eeb741^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVShared.h000000000080d041^684"CpHeader Classes/CDVShared.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVShared.h    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVShared.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova36"D5FD84CD-218E-420B-849F-527BDA80C9E2-
+
+CCpHeader Classes/CDVTimer.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVTimer.h
+s401511066.916965
+e401511066.930029
+r1
+xCpHeader
+xClasses/CDVTimer.h
+x/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVTimer.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVTimer.h8cd9ea9a92eeb741^c32eee9a92eeb741^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVTimer.h000000000080d041^681"CpHeader Classes/CDVTimer.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVTimer.h    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVTimer.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova36"D621355D-0B68-49E0-879B-5E17E104EC23-
+
+CCpHeader Classes/CDVURLProtocol.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVURLProtocol.h
+s401511066.897419
+e401511066.901094
+r1
+xCpHeader
+xClasses/CDVURLProtocol.h
+x/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVURLProtocol.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Copy /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVURLProtocol.hfed7e59a92eeb741^04afe69a92eeb741^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVURLProtocol.h000000000080d041^699"CpHeader Classes/CDVURLProtocol.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVURLProtocol.h    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova36"6778B5CB-C53A-4740-B993-FF4F37326C20-
+
+CCpHeader Classes/CDVUserAgentUtil.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h
+s401511066.916963
+e401511066.922631
+r1
+xCpHeader
+xClasses/CDVUserAgentUtil.h
+x/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h6bd5ea9a92eeb741^4b01ed9a92eeb741^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h000000000080d041^705"CpHeader Classes/CDVUserAgentUtil.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova36"D4F67C57-22F0-4CED-AA96-656E6E4B9541-
+
+CCpHeader Classes/CDVViewController.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVViewController.h
+s401511066.899716
+e401511066.903575
+r1
+xCpHeader
+xClasses/CDVViewController.h
+x/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVViewController.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVViewController.hfc72e69a92eeb741^614fe79a92eeb741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVViewController.h000000000080d041^708"CpHeader Classes/CDVViewController.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVViewController.h    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVViewController.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova36"A3AD8E6E-82D4-44E9-BFC2-0944EA9DC89F-
+
+CCpHeader Classes/CDVWebViewDelegate.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h
+s401511066.914483
+e401511066.919107
+r1
+xCpHeader
+xClasses/CDVWebViewDelegate.h
+x/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h7235ea9a92eeb741^884aeb9a92eeb741^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h000000000080d041^711"CpHeader Classes/CDVWebViewDelegate.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova36"BE909AA3-CA0A-4196-8177-775A1FD68B62-
+
+CCpHeader Classes/CDVWhitelist.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVWhitelist.h
+s401511066.897417
+e401511066.902338
+r1
+xCpHeader
+xClasses/CDVWhitelist.h
+x/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVWhitelist.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVWhitelist.h23d7e59a92eeb741^e606e79a92eeb741^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVWhitelist.h000000000080d041^693"CpHeader Classes/CDVWhitelist.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/CDVWhitelist.h    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/CDVWhitelist.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova36"CF5F2A6E-4374-445F-A35D-1C14459FBDF8-
+
+CCpHeader Classes/NSArray+Comparisons.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/NSArray+Comparisons.h
+s401511066.906796
+e401511066.911010
+r1
+xCpHeader
+xClasses/NSArray+Comparisons.h
+x/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/NSArray+Comparisons.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/NSArray+Comparisons.h8047e89a92eeb741^1538e99a92eeb741^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/NSArray+Comparisons.h000000000080d041^714"CpHeader Classes/NSArray+Comparisons.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/NSArray+Comparisons.h    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova36"B7658F19-E610-473C-B528-3DB8D6B6A024-
+
+CCpHeader Classes/NSData+Base64.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/NSData+Base64.h
+s401511066.887841
+e401511066.896224
+r1
+xCpHeader
+xClasses/NSData+Base64.h
+x/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/NSData+Base64.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/NSData+Base64.hf7cbe39a92eeb741^596ee59a92eeb741^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/NSData+Base64.h000000000080d041^696"CpHeader Classes/NSData+Base64.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/NSData+Base64.h    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSData+Base64.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova36"8CD95647-7140-4995-8B7C-5E59B5E643FB-
+
+CCpHeader Classes/NSDictionary+Extensions.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h
+s401511066.887847
+e401511066.893506
+r1
+xCpHeader
+xClasses/NSDictionary+Extensions.h
+x/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Copy /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h53cae39a92eeb741^c3bbe49a92eeb741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h0000804e47001042^726"CpHeader Classes/NSDictionary+Extensions.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova36"84D761D6-1965-4BAD-A458-ED806C8E5F72-
+
+CCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h
+s401511066.894936
+e401511066.898485
+r1
+xCpHeader
+xClasses/NSMutableArray+QueueAdditions.h
+x/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Copy /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.hff3ce59a92eeb741^6c04e69a92eeb741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h000000000080d041^744"CpHeader Classes/NSMutableArray+QueueAdditions.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova36"F351F479-D085-450F-8428-48B8AD9494FA-
+
+CCpHeader Classes/UIDevice+Extensions.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/UIDevice+Extensions.h
+s401511066.904784
+e401511066.908621
+r1
+xCpHeader
+xClasses/UIDevice+Extensions.h
+x/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/UIDevice+Extensions.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/UIDevice+Extensions.h16c1e79a92eeb741^849be89a92eeb741^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/UIDevice+Extensions.h000000000080d041^714"CpHeader Classes/UIDevice+Extensions.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova/UIDevice+Extensions.h    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h /Users/yuntao/phonegap/hahatv/platforms/ios/build/include/Cordova36"D4CFCAA7-D59C-4802-919F-959B651638F1-
+
+CLibtool /Users/yuntao/phonegap/hahatv/platforms/ios/build/libCordova.a normal i386
+s401511068.751717
+e401511068.768964
+r1
+xLibtool
+x/Users/yuntao/phonegap/hahatv/platforms/ios/build/libCordova.a
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Libtool /Users/yuntao/phonegap/hahatv/platforms/ios/build/libCordova.a normal i386ba87c09c92eeb741^16dbc49c92eeb741^---0#0#0#--986"Libtool /Users/yuntao/phonegap/hahatv/platforms/ios/build/libCordova.a normal i386    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/yuntao/phonegap/hahatv/platforms/ios/build -filelist /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList -o /Users/yuntao/phonegap/hahatv/platforms/ios/build/libCordova.a36"13AEA5E1-B9D5-4772-A182-A4F57589799D-
+
+CProcessPCH /var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch.pth CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401511066.940740
+e401511067.436786
+r1
+xProcessPCH
+x/var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch.pth
+xCordovaLib_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile CordovaLib_Prefix.pchab25f19a92eeb741^9ed06f9b92eeb741^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/CordovaLib_Prefix.pch0000000000000000^3659"ProcessPCH /var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch.pth CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/yuntao/server:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yuntao/phonegap/hahatv/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yuntao/phonegap/hahatv/platforms/ios/build -DDEBUG --serialize-diagnostics /var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch.dia -c /Users/yuntao/phonegap/hahatv/platforms/ios/CordovaLib/CordovaLib_Prefix.pch -o /var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/6x/p880_lt55yz7rd1msvx20sj80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-eggmybpwrpqxndetfzhzhisgpzob/CordovaLib_Prefix.pch.d36"8860B0DD-7C7F-4903-A6BF-D289F1B1EB39-
+
