@@ -2,7 +2,7 @@ hahatv
 ======
 #introduce
 
-hahatv is a ios app,it can provide so many funny video for you. 
+hahatv is an ios app,it can provide so many funny videos for you. 
 
 搞笑电视机—一个随机播放精选搞笑视频的IOS应用。
 
