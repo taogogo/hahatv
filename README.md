@@ -8,7 +8,7 @@ hahatv is an ios app,it can provide so many funny videos for you.
 
 #data source
 
-http://gx.zhans.org/
+http://gx.taocms.org/
 
 #screenshot
 
